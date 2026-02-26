@@ -1,0 +1,4 @@
+Learn CI/CD pipelines
+Understand cloud deployment
+Improve DevOps skills
+
